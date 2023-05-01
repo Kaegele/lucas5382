@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LUCAS E. KAEGELE 
-- 👀 I’m interested in computer science, python programming 
+- 👀 I’m interested in computer science and java programming with spring boot framework
 - 🌱 I’m currently learning Information Communication and Technology 
-- 💞️ I’m looking to collaborate on Programming with Python and JavaScript 
+- 💞️ I’m looking to collaborate on Programming with Python and Java
 - 📫 How to reach me kaegelelucas56@gmail.com
 
 <!---
