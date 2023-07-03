@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LUCAS E. KAEGELE 
-- 👀 I’m interested in computer science and java programming with spring boot framework and laravel
+- 👀 I’m interested in computer science and java programming with spring boot framework and laravel framework of php
 - 🌱 I’m currently learning Information Communication and Technology 
-- 💞️ I’m looking to collaborate on Programming with Python and Java
+- 💞️ I’m looking to collaborate on Programming with php and Java
 - 📫 How to reach me kaegelelucas56@gmail.com
 
 <!---
